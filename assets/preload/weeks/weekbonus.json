@@ -1,0 +1,31 @@
+{
+	"storyName": "last whitty",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"WhiteOG",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Time's Up",
+			"icon-WhittyCrazy",
+			[
+				175,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bab"
+}
