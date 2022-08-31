@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "B whitty idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-136,
+				465
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "B whitty right0"
+		},
+		{
+			"offsets": [
+				278,
+				398
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "B whitty left0"
+		},
+		{
+			"offsets": [
+				19,
+				377
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "B whitty down0"
+		},
+		{
+			"offsets": [
+				-100,
+				695
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "B whitty up0"
+		},
+		{
+			"offsets": [
+				300,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-ALT",
+			"loop": false,
+			"name": "B whitty left Alt"
+		},
+		{
+			"offsets": [
+				-206,
+				470
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "B whitty right Alt"
+		},
+		{
+			"offsets": [
+				30,
+				330
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "B whitty down Alt"
+		},
+		{
+			"offsets": [
+				-110,
+				700
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "B whitty up Alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B Whitty",
+	"position": [
+		70,
+		400
+	],
+	"healthicon": "angor",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		40
+	],
+	"camera_position": [
+		-270,
+		-610
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
