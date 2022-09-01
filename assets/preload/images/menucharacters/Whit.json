@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Whitty idle",
+	"idle_anim": "STORY MODE TEMPLATE",
+	"position": [
+		139,
+		106
+	],
+	"scale": 0.45,
+	"image": "Whitmore"
+}

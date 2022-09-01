@@ -1,0 +1,10 @@
+{
+	"idle_anim": "STORY MODE TEMPLATE",
+	"image": "Menu_White_OG",
+	"position": [
+		120,
+		200
+	],
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}
